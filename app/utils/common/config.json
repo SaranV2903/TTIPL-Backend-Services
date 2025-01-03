@@ -18,9 +18,9 @@
   },
   "local": {
     "username": "root",
-    "password": "Elina@123",
+    "password": "root",
     "database": "ttipl_website",
-    "host": "34.173.254.48",
+    "host": "127.0.0.1",
     "port": 3306,
     "dialect": "mysql",
     "operatorsAliases": false
