@@ -1,0 +1,36 @@
+{
+  "development": {
+    "username": "opencartadmin",
+    "password": "demoPassword1!",
+    "database": "opencart_3.3.0.8",
+    "host": "20.204.101.63",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "opencart",
+    "password": "opencart",
+    "database": "opencart",
+    "host": "ttci-ipms.com",
+    "dialect": "mysql",
+    "port": 3307,
+    "operatorsAliases": false
+  },
+  "local": {
+    "username": "root",
+    "password": "root",
+    "database": "ttipl_website",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "Email": {
+    "username": "itservices@talentakeaways.com",
+    "password": "Login@0923",
+    "port": 465,
+    "host": "mail.talentakeaways.com",
+    "sender": "itservices@talentakeaways.com",
+    "receiver": "hr@talentakeaways.com"
+  }
+}
