@@ -5,7 +5,7 @@ const {
   BlogValidation,
   HireFormValidation,
   demoFormValidation,
-} = require("app/utils/common/validations/signupValidation.js");
+} = require("../utils/common/validations/signupValidation");
 const WebsiteModel = require("../models/WebsiteModel");
 
 const contactForm = (request, response) => {
